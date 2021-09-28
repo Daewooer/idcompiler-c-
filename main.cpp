@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+//starts
 int main() {
     cout << "idcompiler booting up" endl;
     cout << "hello user" << endl;
